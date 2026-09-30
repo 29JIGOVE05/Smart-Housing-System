@@ -1,4 +1,4 @@
-# Smart Housing With Intruder Detection
+# Smart Housing System
 Smart housing refers to technologically advanced homes equipped with interconnected systems and devices to enhance convenience, efficiency, and security.
 
 Leveraging the Internet of Things (IoT), artificial intelligence (AI), and automation, smart housing integrates devices like smart thermostats, lighting systems, voice assistants, security cameras, and appliances that can be remotely controlled or automated. These systems improve energy efficiency by regulating lighting and climate control based on usage patterns, saving costs and reducing environmental impact.
